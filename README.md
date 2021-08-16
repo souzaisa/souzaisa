@@ -1,4 +1,11 @@
 ### Hi there 👋
+<div style="display: flex;flex-direction: row;align-items: center;">
+  <div>
+    ###AAAA
+  </div>
+  <img height="180em" src="https://user-images.githubusercontent.com/28874379/129598912-195cb27d-c007-429c-bdfc-a38d4a41a58f.png"/>
+</div>
+
 
 <!--
 **souzaisa/souzaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
