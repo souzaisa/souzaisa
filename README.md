@@ -2,7 +2,7 @@
 -
 
 <div>
-  <img height="200em"  align="right" src="https://media.giphy.com/media/e0AruSSbMgYUzKnaVA/giphy.gif">
+  <img height="180em"  align="right" src="https://media.giphy.com/media/e0AruSSbMgYUzKnaVA/giphy.gif">
   <div>
     <p>Olá, bem vinde ao meu perfil no Github :) <br>
       Me chamo Isabela e sou estudante de Sistemas de Informação, na Universidade Federal de Itajubá (UNIFEI). Sou desenvolvedora Front-End, com forte apreço na área de Gerenciamento de Projetos. 💻
