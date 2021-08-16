@@ -1,18 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=74CFED&center=true&vCenter=true&width=1000&lines=%3C+Hello+World+%2F%3E)](https://git.io/typing-svg)
---
+-
+
 <div>
   <img height="200em"  align="right" src="https://media.giphy.com/media/e0AruSSbMgYUzKnaVA/giphy.gif">
   <div>
-    <p>• Desenvolvedora Front-End 💻</p>
-    <p>• Graduanda em Sistemas de Informação na <a href="https://unifei.edu.br">UNIFEI</a> 🎓</p>
+    <p>Olá, bem vinde ao meu perfil no Github :) <br>
+      Me chamo Isabela e sou estudante de Sistemas de Informação, na Universidade Federal de Itajubá (UNIFEI). Sou desenvolvedora Front-End, com forte apreço na área de Gerenciamento de Projetos. 💻
+</p>
   </div>
 </div>
 
 <div>
+  <b>Tecnologias</b>
   <div style="display: inline_block">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Materialize" height="30" width="40" src="https://user-images.githubusercontent.com/28874379/129633227-6d798169-db75-4b90-bdf0-2e89b9894fd3.png">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wordpress" height="30" src="https://user-images.githubusercontent.com/28874379/129623370-c65bff5a-916f-44b1-814f-c8e76bd958b1.png">
   </div>
