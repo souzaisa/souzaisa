@@ -25,7 +25,7 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/souza-isa" target="_blank"><img alt="Linkedin" height="40" src="https://user-images.githubusercontent.com/28874379/129626974-62dc3149-9e2e-4c8f-b114-f1e8868182fa.png"></a>
+  <a href="https://www.linkedin.com/in/souza-isabela" target="_blank"><img alt="Linkedin" height="40" src="https://user-images.githubusercontent.com/28874379/129626974-62dc3149-9e2e-4c8f-b114-f1e8868182fa.png"></a>
   <a href="mailto:souza.isa96@gmail.com" target="_blank"><img alta="Gmail" height="40" src="https://user-images.githubusercontent.com/28874379/129626983-a829c6a2-1b59-449c-bd8c-34b7f66534c0.png"></a>
   
 </div>
