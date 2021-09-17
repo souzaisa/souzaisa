@@ -4,8 +4,8 @@
 <div>
   <img height="180em"  align="right" src="https://media.giphy.com/media/e0AruSSbMgYUzKnaVA/giphy.gif">
   <div>
-    <p>Olá, bem vinde ao meu perfil no Github :) <br>
-      Me chamo Isabela e sou estudante de Sistemas de Informação, na Universidade Federal de Itajubá (UNIFEI). Sou desenvolvedora Front-End, com forte apreço na área de Gerenciamento de Projetos. 💻
+    <p>Olá, bem vinde ao meu perfil no Github! <br>
+      Me chamo Isabela e estudo Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). Atualmente, sou desenvolvedora Front-End, com um forte apreço na área de Gerenciamento de Projetos. :computer: :blue_heart:
 </p>
   </div>
 </div>
